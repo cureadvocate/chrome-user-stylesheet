@@ -6,6 +6,8 @@ Browsing GitHub with Inconsolata looks terrible, as GitHub uses the Octicons web
 
 
 
-### TODO
+### INSTALL (via [SuperUser](http://superuser.com/questions/594358/modify-chrome-user-agent-stylesheet))
 
-- [ ] Add CSS rule to use a CJK-friendly font for pages that need it.
+1. In Google Chrome, go to URL about:version and take note of the "profile path".
+2. Browse to the profile path in your file browser. Inside your profile folder, open the User StyleSheets folder. Inside "User StyleSheets", there should be a file called Custom.css, empty by default.
+3. Just add your styles in Custom.css.

@@ -1,1 +1,2 @@
-.config/google-chrome/Default/User StyleSheets/Custom.css
+* { font-family: inconsolata !important; }
+*[class*="octicon"]  { font-family: octicons !important; }
