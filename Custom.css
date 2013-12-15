@@ -1,2 +1,5 @@
 * { font-family: inconsolata !important; }
 *[class*="octicon"]  { font-family: octicons !important; }
+*[class*="ab-icon"]  { font-family: dashicons !important; }
+*[class*="noticon"]  { font-family: Noticons !important; }
+div#weather-inner span.weather { font-family: Weather !important; }
